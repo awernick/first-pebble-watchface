@@ -1,0 +1,17 @@
+{
+  "uuid": "09322fb2-a62e-4624-bd7d-079f0f4f4b57",
+  "shortName": "first-watchface",
+  "longName": "first-watchface",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
